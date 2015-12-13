@@ -1,0 +1,88 @@
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# DELL <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-26 18:10+0800\n"
+"PO-Revision-Date: 2012-07-27 11:13+0800\n"
+"Last-Translator: Fanzy <420257352@qq.com>\n"
+"Language-Team: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: StringData.cpp:9
+msgid "Start"
+msgstr "开始游戏"
+
+#: StringData.cpp:10
+msgid "Introduction"
+msgstr "游戏说明"
+
+#: StringData.cpp:11
+#: StringData.cpp:28
+#: StringData.cpp:35
+msgid "Quit"
+msgstr "退出游戏"
+
+#: StringData.cpp:12
+#: StringData.cpp:43
+msgid "HighScore:"
+msgstr "最高分："
+
+#: StringData.cpp:16
+msgid "Whole"
+msgstr "左移              右移"
+
+#: StringData.cpp:17
+msgid "Black"
+msgstr "由玩家控制的主球"
+
+#: StringData.cpp:18
+msgid "Yellow"
+msgstr "刷分球:成绩来源，一个球基础分是一分"
+
+#: StringData.cpp:19
+msgid "Red"
+msgstr "疯狂球:一段时间内有刷分球疯狂飞出"
+
+#: StringData.cpp:20
+msgid "Blue"
+msgstr "冰冻球:一段时间整个世界速度变慢"
+
+#: StringData.cpp:21
+msgid "Purple"
+msgstr "双倍球:一段时间内得分翻倍"
+
+#: StringData.cpp:25
+msgid "Game Over"
+msgstr "游戏结束"
+
+#: StringData.cpp:26
+msgid "your score is:"
+msgstr "您的最后得分"
+
+#: StringData.cpp:27
+msgid "Again"
+msgstr "再玩一次"
+
+#: StringData.cpp:29
+msgid "You break the record"
+msgstr "您刷新了记录"
+
+#: StringData.cpp:33
+msgid "Return"
+msgstr "返回游戏"
+
+#: StringData.cpp:34
+msgid "Retry"
+msgstr "重新开始"
+
+#: StringData.cpp:39
+msgid "Score:"
+msgstr "分数："
+
